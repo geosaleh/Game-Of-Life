@@ -10,7 +10,7 @@ Conway's Game of Life Python Implementation
         -tkinter
         -time
 
-    This is a GUI based python script.
+This is a GUI based python script.
 
 ## Install
 
