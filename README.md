@@ -39,7 +39,7 @@ it will show following Output
 <img src="Screen Recording 1.gif">
 
 ## Download
-:paperclip: [Download Here](https://github.com/geosaleh/Game-Of-Life.git)
+:paperclip: [Download Here](https://github.com/geosaleh/Game-Of-Life/archive/refs/heads/main.zip)
 
 Hope you'll install it in your computer just to try .
 
